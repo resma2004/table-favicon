@@ -1,0 +1,15 @@
+#title {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#title {
+    color: blueviolet;
+}
+
+table,
+td,
+th {
+    border: 1px solid brown;
+    text-align: center;
+}
